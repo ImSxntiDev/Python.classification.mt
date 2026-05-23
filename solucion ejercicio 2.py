@@ -1,3 +1,5 @@
+#Ejercicio desarollado y comentado por mi persona, no se utilizo ninguna fuente externa, es un ejercicio de clasificación de clientes basado en su duración de sesión y eventos de clics en base a los ejercicios de Fase 5 momento final.
+
 #Matriz para almacenar datos de sesiones de clientes [ID CLIENTE, Duracion (segundos), Eventos clics]
 #Clasificación
 #Alto = Duración > 180s y clics > 8
